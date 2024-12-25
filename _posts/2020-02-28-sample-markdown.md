@@ -9,7 +9,7 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 한화이글스 홈페이지에서 크롤링하여 2024년 시즌성적을수집하여 승률관련한 EDA를 진행하고, 경기예측서비스 및 시각화 분석자료를 사용자에게 제공
 
 {: .box-note}
-**Note:** This is a notification box.
+**서비스시뮬레이션 페이지 :** [Figma](https://m.site.naver.com/1zM8z)
 
 <!-- **Here is some bold text**
 
