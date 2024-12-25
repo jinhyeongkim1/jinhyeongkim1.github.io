@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome to my portfolio introduction page.
+subtitle: I am preparing for a career as a data analyst.
 ---
 
-My name is jinhyeongkim. I am preparing for a career as a data analyst.:
+My name is jinhyeongkim.:
 
 - Contact: jinhyeong_kim@naver.com
 
