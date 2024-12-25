@@ -2,7 +2,7 @@ name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
   build:
-    name: Build Jekyll
+    name: Jinhyeong kim
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
