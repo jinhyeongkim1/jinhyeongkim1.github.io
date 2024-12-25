@@ -4,9 +4,7 @@ title: About me
 subtitle: I am preparing for a career as a data analyst.
 ---
 
-My name is jinhyeongkim.:
-
-- Contact: jinhyeong_kim@naver.com
+Contact: jinhyeong_kim@naver.com
 
 
 ### Experience with
