@@ -10,3 +10,5 @@ tags: [판례, 법률, 텍스트분석, KoBERT, streamlit]
 
 {: .box-note}
 **서비스시뮬레이션영상 :** [Youtube](https://youtu.be/JthNdAvafgA)
+
+[PDF 파일 보기](assets/after.pdf)
