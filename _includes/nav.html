@@ -13,7 +13,7 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
-        {%- if link[1].first %}
+        <!-- {%- if link[1].first %}
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -39,7 +39,7 @@
         </li>
       {%- endif -%}
     </ul>
-  </div>
+  </div> -->
 
   {% if site.navbar-extra %}
     {% for file in site.navbar-extra %}
