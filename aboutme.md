@@ -4,9 +4,6 @@ title: About me
 subtitle: I am preparing for a career as a data analyst.
 ---
 
-Contact: jinhyeong_kim@naver.com
-
-
 ### Experience with
 
 - Github
@@ -17,3 +14,6 @@ Contact: jinhyeong_kim@naver.com
 - mysql
 - streamlit
 - Figma
+
+
+Contact: jinhyeong_kim@naver.com
