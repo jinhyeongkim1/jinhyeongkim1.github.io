@@ -9,7 +9,7 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 한화이글스 홈페이지에서 크롤링하여 2024년 시즌성적을수집하여 승률관련한 EDA를 진행하고, 경기예측서비스 및 시각화 분석자료를 사용자에게 제공
 
 
-**Here is some bold text**
+<!-- **Here is some bold text**
 
 ## Here is a secondary heading
 
@@ -88,4 +88,4 @@ When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.gi
 
 If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }}) -->
