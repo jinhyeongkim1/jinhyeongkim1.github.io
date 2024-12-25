@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Dearhanhwa 승률분석데이터
-tags: [한화이글스, 머신러닝, tableau, figma]
+tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+한화이글스 홈페이지에서 크롤링하여 2024년 시즌성적을수집하여 승률관련한 EDA를 진행하고, 경기예측서비스 및 시각화 분석자료를 사용자에게 제공
+
 
 **Here is some bold text**
 
