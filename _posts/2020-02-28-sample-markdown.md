@@ -11,7 +11,9 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 {: .box-note}
 **서비스시뮬레이션 페이지 :** [Figma](https://m.site.naver.com/1zM8z)
 
-[PDF 파일 보기](assets/first.pdf)
+[이미지1](assets/img/E1.jpg)
+[이미지2](assets/img/E2.jpg)
+[이미지3](assets/img/E3.jpg)
 
 <!-- **Here is some bold text**
 
