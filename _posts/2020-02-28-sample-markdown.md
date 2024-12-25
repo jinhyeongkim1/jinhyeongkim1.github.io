@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dearhanhwa 승률분석데이터
+tags: [한화이글스, 머신러닝, tableau, figma]
 
 ---
 
