@@ -6,8 +6,8 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 ---
 
 {: .box-success}
-한화이글스 홈페이지에서 2024년 시즌성적을 크롤링하여 데이터를 수집하고,
-승률관련한 EDA를 진행하여 경기예측서비스 및 시각화 분석자료를 사용자에게 제공
+한화 이글스의 시즌 성적과 관련된 인스타그램 게시글 및 댓글 데이터를 크롤링하여, 승률에 대한 탐색적 데이터 분석(EDA)과 SNS 분석을 통해 승리가 마케팅에 미치는 긍정적인 영향을 분석하고, 승리 경기 결과 예측 서비스와 시각화 분석 자료를 사용자에게 제공
+
 
 {: .box-note}
 **서비스시뮬레이션 페이지 :** [Figma](https://m.site.naver.com/1zM8z)
@@ -15,6 +15,10 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 ![이미지1]({{'assets/img/E1.jpg'| relative_url }})
 ![이미지2]({{'assets/img/E2.jpg'| relative_url }})
 ![이미지3]({{'assets/img/E3.jpg'| relative_url }})
+![이미지4]({{'assets/img/E4.jpg'| relative_url }})
+![이미지5]({{'assets/img/E5.jpg'| relative_url }})
+![이미지6]({{'assets/img/E6.jpg'| relative_url }})
+
 
 
 
