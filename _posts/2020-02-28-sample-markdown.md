@@ -18,6 +18,10 @@ tags: [한화이글스, 머신러닝, 승률, tableau, figma]
 ![이미지4]({{'assets/img/E4.jpg'| relative_url }})
 ![이미지5]({{'assets/img/E5.jpg'| relative_url }})
 ![이미지6]({{'assets/img/E6.jpg'| relative_url }})
+![이미지7]({{'assets/img/E7.jpg'| relative_url }})
+![이미지8]({{'assets/img/E8.jpg'| relative_url }})
+![이미지9]({{'assets/img/E9.jpg'| relative_url }})
+
 
 
 
