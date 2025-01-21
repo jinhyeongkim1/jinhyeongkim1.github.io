@@ -22,4 +22,4 @@ tags: [판례, 법률, 텍스트분석, KoBERT, streamlit]
 ![이미지8]({{'assets/img/P8.jpg'| relative_url }})
 ![이미지9]({{'assets/img/P9.jpg'| relative_url }})
 ![이미지10]({{'assets/img/P10.jpg'| relative_url }})
-![이미지11]({{'assets/img/P11.jpg'| relative_url }})
+
